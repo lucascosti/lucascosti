@@ -1,10 +1,9 @@
 ### 👋 G'day! 
 
-I'm Lucas! I'm from Brisbane, Australia and I'm a technical writer on the GitHub docs team. 📝
+I'm Lucas! I'm from Brisbane, Australia and I'm a technical writer. 📝
 
 #### Me on GitHub
 
-* 🏢 You can find the work my team does in the open source [GitHub Docs](https://github.com/github/docs) repo. 
 * 💻 I keep track of my computer's config in my [mac-config](https://github.com/lucascosti/mac-config) repo.
 
 #### Me outside of GitHub
